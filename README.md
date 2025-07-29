@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
+I am very interested in programmation and web development in general and i'm currently studying at 42 School with a view to be working as a web developper at a later stage. 
+
 - 🔭 I’m currently working on **Ft_Transcendence**
 
 - 🌱 I’m currently learning **React, Node.js, SQL**
